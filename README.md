@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Run the script:
    ```bash
-   python sagres_bot.py
+   python run.py
    ```
 
 2. Enter your Sagres account credentials and the product name you want to search for when prompted.

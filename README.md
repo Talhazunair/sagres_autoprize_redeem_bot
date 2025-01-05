@@ -1,4 +1,4 @@
-# Sagres Bot
+# Sagres Bot For Auto Prize Redeem 
 
 Sagres Bot is a Python automation tool that enables users to log in to the Sagres platform, search for products, and attempt to redeem them. It utilizes Selenium for web automation and provides a rich command-line interface using Rich and Colorama libraries.
 

@@ -21,8 +21,8 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sagres-bot.git
-   cd sagres-bot
+   git clone https://github.com/Talhazunair/sagres_autoprize_redeem_bot
+   cd [bot folder name]
    ```
 
 2. Install dependencies:
